@@ -10,7 +10,7 @@
 | 5    | 2019/02/12    | Introduction to REST and RESTful API and Design |
 | 6    | 2019/02/19    | Develop services with Spring Boot (Java) #1 |
 | 7    | 2019/02/26    | **Present Semester project #1** |
-|      |  Midterm exam  |       |
+|      |   |    **Midterm exam**   |
 | 8    | 2019/03/12    | Develop services with Spring Boot (Java) #2 |
 | 9    | 2019/03/19    | Develop services with Spring Boot (Java) #3 |
 | 10   | 2019/04/2     | Deploy services with Docker <br> Automated deployment |
@@ -18,7 +18,7 @@
 | 12   | 2019/04/16    | Scaling services |
 | 13   | 2019/04/23    | Monitoring your services (Logging, tracing and metric) |
 | 14   | 2019/05/7     | **Present Semester project #2** |
-|      | Final exam  |    |
+|      |   |  **Final exam**  |
 
 ## 2. Course Evaluation
 Your grade will be determined by your work on
