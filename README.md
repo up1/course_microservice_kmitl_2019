@@ -33,6 +33,10 @@ Your grade will be determined by your work on
 ## 3. Semester project and Homeworks
 * Working as a team (4-5 peoples)
 * Homeworks and Semester project will be subbmited via [GitHub](https://github.com/)
+  * Documentation of project in Wiki format
+  * Source codes
+    * Working software
+    * Clean Code
 
 
 
