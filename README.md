@@ -14,7 +14,7 @@
 | 8    | 2019/03/12    | Develop services with Spring Boot (Java) #2 |
 | 9    | 2019/03/19    | Develop services with Spring Boot (Java) #3 |
 | 10   | 2019/04/2     | Deploy services with Docker <br> Automated deployment |
-| 11   | 2019/04/9     | Deploy services with Docker <br> Automated deployment |
+| 11   | 2019/04/9     | Testing services |
 | 12   | 2019/04/16    | Scaling services |
 | 13   | 2019/04/23    | Monitoring your services (Logging, tracing and metric) |
 | 14   | 2019/05/7     | **Present Semester project #2** |
