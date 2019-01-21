@@ -4,7 +4,7 @@
 | No.  | Date           | Topics  |
 | ---- |:-------------:| :-----|
 | 1    | 2019/01/15    | [Course Overview](https://github.com/up1/course_microservice_kmitl_2019/blob/master/slide/day01/01-COURSE-OVERVIEW.pdf) <br> [Introduction and evolution of software architecture](https://github.com/up1/course_microservice_kmitl_2019/blob/master/slide/day01/02-INTRODUCTION.pdf) <br> How to use Git ? |
-| 2    | 2019/01/22    | Design services and microservices <br> Charecteristics of services |
+| 2    | 2019/01/22    | [Design services and microservices](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day02) <br> Charecteristics of services |
 | 3    | 2019/01/29    | Communication between services <br> **Send topics and scope of semester project** |
 | 4    | 2019/02/5     | Service design patterns |
 | 5    | 2019/02/12    | Introduction to REST and RESTful API and Design |
