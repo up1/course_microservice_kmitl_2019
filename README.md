@@ -3,7 +3,7 @@
 ## 1. Schedule
 | No.  | Date           | Topics  |
 | ---- |:-------------:| :-----|
-| 1    | 2019/01/15    | Course Overview <br> Introduction and evolution of software architecture <br> How to use Git ? |
+| 1    | 2019/01/15    | [Course Overview](https://github.com/up1/course_microservice_kmitl_2019/blob/master/slide/day01/01-COURSE-OVERVIEW.pdf) <br> [Introduction and evolution of software architecture](https://github.com/up1/course_microservice_kmitl_2019/blob/master/slide/day01/02-INTRODUCTION.pdf) <br> How to use Git ? |
 | 2    | 2019/01/22    | Design services and microservices <br> Charecteristics of services |
 | 3    | 2019/01/29    | Communication between services <br> **Send topics and scope of semester project** |
 | 4    | 2019/02/5     | Service design patterns |
@@ -38,8 +38,7 @@ Your grade will be determined by your work on
     * Working software
     * Clean Code
 
-
-
-
-
+## 4. Resources
+* [Microservices pattern](https://microservices.io)
+* [Microservices Resource Guilde](https://martinfowler.com/microservices/)
 
