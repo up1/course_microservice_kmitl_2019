@@ -38,8 +38,7 @@ Your grade will be determined by your work on
     * Working software
     * Clean Code
 
-
-
-
-
+## 4. Resources
+* [Microservices pattern](https://microservices.io)
+* [Microservices Resource Guilde](https://martinfowler.com/microservices/)
 
