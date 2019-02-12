@@ -7,12 +7,12 @@
 | 2    | 2019/01/22    | [Design services and microservices](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day02) <br>**Send topics and scope of semester project** <br> Charecteristics of services <br>Quiz 1 |
 | 3    | 2019/01/29    | [Design services and microservices 2](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day03) <br>Quiz 2|
 | 4    | 2019/02/5     | [Communication between services <br> Service design patterns](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day04) |
-| 5    | 2019/02/12    | [Data management](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day05)<br>Introduction to REST and RESTful API and Design |
-| 6    | 2019/02/19    | Develop services with Spring Boot (Java) #1 |
+| 5    | 2019/02/12    | [Data management](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day05)<br>Introduction to REST and RESTful API and Design<br>Develop services with Spring Boot (Java) #1 |
+| 6    | 2019/02/19    | Develop services with Spring Boot (Java) #2 |
 | 7    | 2019/02/26    | **Present Semester project #1** |
 |      |   |    **Midterm exam**   |
-| 8    | 2019/03/12    | Develop services with Spring Boot (Java) #2 |
-| 9    | 2019/03/19    | Develop services with Spring Boot (Java) #3 |
+| 8    | 2019/03/12    | Develop services with Spring Boot (Java) #3 |
+| 9    | 2019/03/19    | Develop services with Spring Boot (Java) #4 |
 | 10   | 2019/04/2     | Deploy services with Docker <br> Automated deployment |
 | 11   | 2019/04/9     | Testing services |
 | 12   | 2019/04/16    | Scaling services |
