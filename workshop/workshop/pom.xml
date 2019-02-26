@@ -41,6 +41,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>workshop</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
