@@ -10,8 +10,8 @@
 | 5    | 2019/02/12    | [Data management](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day05)<br>Introduction to REST and RESTful API and Design |
 | 6    | 2019/02/26    | [Properties and Generation of Microservices](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day06/SCK-DEVELOP-MICROSERVICE.pdf)<br>[Develop services with Spring Boot (Java) + Testing #1](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day06/SCK-SPRING-BOOT-WORKSHOP.pdf) |
 |      |   |    **Midterm exam**   |
-| 7    | 2019/03/12    | **Present Semester project #1** |
-| 8    | 2019/03/19    | Develop services with Spring Boot (Java) + Testing #3 |
+| 7    | 2019/03/12    | [Develop services with Spring Boot (Java) + Testing #2](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day06/SCK-SPRING-BOOT-WORKSHOP.pdf) |
+| 8    | 2019/03/26    | **Present Semester project #1** |
 | 9   | 2019/04/2     | Deploy services with Docker <br> Automated deployment |
 | 10   | 2019/04/9     | Deploy services with Docker <br> Automated deployment |
 | 11   | 2019/04/16    | Scaling services |
