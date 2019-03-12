@@ -24,5 +24,6 @@ public class HelloControllerTest {
 
         // Validate
         assertEquals("Hello test", response.getMessage());
+        assertEquals(new HelloResponse(), response);
     }
 }
