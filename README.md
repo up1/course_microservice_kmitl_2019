@@ -13,10 +13,9 @@
 | 7    | 2019/03/12    | [Develop services with Spring Boot (Java) + Testing #2](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day06/SCK-SPRING-BOOT-WORKSHOP.pdf) |
 | 8    | 2019/03/26    | **Present Semester project #1** |
 | 9   | 2019/04/2     | [Workshop :: Develop microservices with synchronous communication](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day09/WORKSHOP-DEVELOP-MICROSERVICE.pdf)  |
-| 10   | 2019/04/9     | [Deploy services with Docker]((https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day10/SCK-DEPLOY-MICROSERVICE.pdf)) |
-| 11   | 2019/04/16    | Scaling services |
-| 12   | 2019/04/23    | Monitoring your services (Logging, tracing and metric) |
-| 13   | 2019/05/7     | **Present Semester project #2** |
+| 10   | 2019/04/9     | [Deploy services with Docker](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day10/SCK-DEPLOY-MICROSERVICE.pdf) |
+| 11   | 2019/04/23    | Monitoring your services (Logging, tracing and metric) |
+| 12   | 2019/05/7     | **Present Semester project #2** |
 |      |   |  **Final exam**  |
 
 ## 2. Course Evaluation
