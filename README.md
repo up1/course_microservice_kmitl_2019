@@ -40,3 +40,7 @@ Your grade will be determined by your work on
 * [Microservices pattern](https://microservices.io)
 * [Microservices Resource Guilde](https://martinfowler.com/microservices/)
 
+## 5. Workshop
+* [Develop](https://github.com/up1/workshop-microservice-with-java)
+* [Deploy](https://github.com/up1/workshop-depoy-microservice-java)
+
