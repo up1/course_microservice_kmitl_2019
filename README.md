@@ -14,7 +14,7 @@
 | 8    | 2019/03/26    | **Present Semester project #1** |
 | 9   | 2019/04/2     | [Workshop :: Develop microservices with synchronous communication](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day09/WORKSHOP-DEVELOP-MICROSERVICE.pdf)  |
 | 10   | 2019/04/9     | [Deploy services with Docker](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day10/SCK-DEPLOY-MICROSERVICE.pdf) |
-| 11   | 2019/04/23    | Monitoring your services (Logging, tracing and metric) |
+| 11   | 2019/04/23    | UI Testing with [Robotframework](https://robotframework.org/)<br>Monitoring your services (Logging, tracing and metric) |
 | 12   | 2019/05/7     | **Present Semester project #2** |
 |      |   |  **Final exam**  |
 
@@ -39,4 +39,8 @@ Your grade will be determined by your work on
 ## 4. Resources
 * [Microservices pattern](https://microservices.io)
 * [Microservices Resource Guilde](https://martinfowler.com/microservices/)
+
+## 5. Workshop
+* [Develop](https://github.com/up1/workshop-microservice-with-java)
+* [Deploy](https://github.com/up1/workshop-depoy-microservice-java)
 
