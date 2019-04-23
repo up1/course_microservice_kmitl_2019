@@ -14,7 +14,7 @@
 | 8    | 2019/03/26    | **Present Semester project #1** |
 | 9   | 2019/04/2     | [Workshop :: Develop microservices with synchronous communication](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day09/WORKSHOP-DEVELOP-MICROSERVICE.pdf)  |
 | 10   | 2019/04/9     | [Deploy services with Docker](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day10/SCK-DEPLOY-MICROSERVICE.pdf) |
-| 11   | 2019/04/23    | UI Testing with [Robotframework](https://robotframework.org/)<br>Monitoring your services (Logging, tracing and metric) |
+| 11   | 2019/04/23    | [UI Testing with Robotframework<br>Monitoring your services (Logging, tracing and metric](https://github.com/up1/course_microservice_kmitl_2019/tree/master/slide/day11) |
 | 12   | 2019/05/7     | **Present Semester project #2** |
 |      |   |  **Final exam**  |
 
